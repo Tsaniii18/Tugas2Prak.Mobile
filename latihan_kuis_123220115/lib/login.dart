@@ -46,7 +46,7 @@ class _LoginPageState extends State<LoginPage> {
                       borderRadius: BorderRadius.circular(20),
                     ),
                     child: Image.asset(
-                      'assets/logo.jpg', // Pastikan file logo tersedia di folder assets
+                      'assets/logo.jpg', 
                       height: 125,
                     ),
                   ),
